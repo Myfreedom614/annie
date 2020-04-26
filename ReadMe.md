@@ -1,3 +1,8 @@
+# Preparation
+
+- Annie https://github.com/iawia002/annie/releases
+- FFmpeg https://www.ffmpeg.org/download.html
+
 # List
 
 $ .\annie.exe -i -c cookies.txt av22024133
